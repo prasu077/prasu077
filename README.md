@@ -9,9 +9,8 @@
 
 - 🌱 I’m currently learning **python , html and css .**
 
-- 📫 How to reach me **prasannaprabu077@gmail.com**
+- 📫 How to reach me **prasannaprabakaran0601@gmail.com**
 
-- ⚡ Fun fact **i think i am dancer an funny girl.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
