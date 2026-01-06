@@ -1,29 +1,83 @@
-## Hi there 👋
+# Hi 👋 I'm Prasanna Prabu
 
-<h1 align="center">Hi 👋, I'm PRASANNA PRABU</h1>
-<h3 align="center">A STUDENT WHO PASSIONATE HER WORK IN ADVANCE.</h3>
+🎓 B.Sc Computer Science & Artificial Intelligence  
+📊 Aspiring Data Scientist | Machine Learning Enthusiast  
+🇮🇳 India  
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prasu077&label=Profile%20views&color=0e75b6&style=flat" alt="prasu077" /> </p>
+---
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prasu077" alt="prasu077" /></a> </p>
+## 👨‍💻 About Me
+- Passionate about **Machine Learning & Data Science**
+- Strong in **Python, ML Algorithms, and Data Analysis**
+- Building **real-world ML projects + Streamlit apps**
+- Goal: Become a **Full Stack ML Developer** & crack **Govt Tech Exams**
 
-- 🌱 I’m currently learning **python , html and css .**
+---
 
-- 📫 How to reach me **prasannaprabakaran0601@gmail.com**
+## 🛠️ Skills & Tools
 
+**Languages**
+- Python
+- Java (Academic)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.hackerrank.com/prasanna prabu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="prasanna prabu" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/prasanna0123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="prasanna0123" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/prasannaprabu077" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="prasannaprabu077" height="30" width="40" /></a>
-</p>
+**Machine Learning**
+- Linear Regression
+- Logistic Regression
+- KNN
+- Naive Bayes
+- Decision Tree
+- Random Forest
+- K-Means Clustering
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+**Libraries**
+- NumPy
+- Pandas
+- Matplotlib
+- Seaborn
+- Scikit-learn
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prasu077&show_icons=true&locale=en&layout=compact" alt="prasu077" /></p>
+**Web / App**
+- Streamlit
+- HTML, CSS 
+- Git & GitHub
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prasu077&show_icons=true&locale=en" alt="prasu077" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prasu077&" alt="prasu077" /></p>
+## 📂 Machine Learning Projects
+
+🔹 **Theater Snack Sales Prediction** (Linear Regression)  
+🔹 **Spam vs Ham Classifier** (Naive Bayes)  
+🔹 **Purchase Prediction By Salary** (KNN)  
+🔹 **Used Car Price Prediction** (Regression)
+🔹 **Customer Segmentation ** (K-Means)  
+🔹 **Loan Approval System** (Random Forest)  
+🔹 **Chocolate Sales Prediction** (Logistic Regression)  
+
+➡️ *Each project includes preprocessing, EDA, model training, evaluation & deployment.*
+
+---
+
+## 📊 What I Know Practically
+- Data Cleaning & Preprocessing
+- Feature Selection
+- Correlation Analysis & EDA
+- Model Training & Testing
+- Accuracy, Confusion Matrix, Classification Report
+- Model Saving using Pickle / Joblib
+- Streamlit Deployment
+
+---
+
+## 🌱 Currently Learning
+- Advanced Machine Learning
+- Model Optimization
+- Deployment Best Practices
+- Competitive Coding (Python)
+
+---
+
+## 📫 Connect With Me
+- LinkedIn : https://www.linkedin.com/in/prasanna-prabu-18b48634a/
+---
+
+⭐ *“Learning by building projects.”*
