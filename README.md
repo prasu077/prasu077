@@ -43,15 +43,18 @@
 
 ---
 
-## 📂 Machine Learning Projects
+##📂 Machine Learning Projects
 
-🔹 **Theater Snack Sales Prediction** (Linear Regression)  
-🔹 **Spam vs Ham Classifier** (Naive Bayes)  
-🔹 **Purchase Prediction By Salary** (KNN)  
-🔹 **Used Car Price Prediction** (Regression)
-🔹 **Customer Segmentation ** (K-Means)  
-🔹 **Loan Approval System** (Random Forest)  
-🔹 **Chocolate Sales Prediction** (Logistic Regression)  
+🔗 Complete Data Science & ML Projects Repository:
+👉 https://github.com/prasu077/Data_Science_Project
+
+🔹 Theater Snack Sales Prediction (Linear Regression)
+🔹 Spam vs Ham Classifier (Naive Bayes)
+🔹 Purchase Prediction By Salary (KNN)
+🔹 Used Car Price Prediction (Regression)
+🔹 Customer Segmentation (K-Means)
+🔹 Loan Approval System (Random Forest)
+🔹 Chocolate Sales Prediction (Logistic Regression)
 
 ➡️ *Each project includes preprocessing, EDA, model training, evaluation & deployment.*
 
