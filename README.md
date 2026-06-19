@@ -1,52 +1,80 @@
 # Hi 👋 I'm Prasanna Prabu
 
-🎓 B.Sc Computer Science & Artificial Intelligence  
-📊 Aspiring Data Scientist | Machine Learning Enthusiast  
-🇮🇳 India  
+🎓 B.Sc Computer Science & Artificial Intelligence
+📊 Aspiring Data Scientist | Machine Learning & Deep Learning Enthusiast
+🇮🇳 India
 
 ---
 
 ## 👨‍💻 About Me
-- Passionate about **Machine Learning & Data Science**
-- Strong in **Python, ML Algorithms, and Data Analysis**
-- Building **real-world ML projects + Streamlit apps**
-- Goal: Become a **Full Stack ML Developer** & crack **Govt Tech Exams**
+
+* Passionate about **Data Science, Machine Learning, Deep Learning & NLP**
+* Strong in **Python, Data Analysis, and ML Fundamentals**
+* Building **real-world AI projects, Streamlit apps, and Intelligent Systems**
+* Exploring **Generative AI, Computer Vision, and Natural Language Processing**
+* Goal: Become a **Full Stack AI & ML Developer**
 
 ---
 
 ## 🛠️ Skills & Tools
 
-**Languages**
-- Python
-- Java (Academic)
+### Languages
 
-**Machine Learning**
-- Linear Regression
-- Logistic Regression
-- KNN
-- Naive Bayes
-- Decision Tree
-- Random Forest
-- K-Means Clustering
+* Python
+* Java (Academic)
 
-**Libraries**
-- NumPy
-- Pandas
-- Matplotlib
-- Seaborn
-- Scikit-learn
+### Machine Learning
 
-**Web / App**
-- Streamlit
-- HTML, CSS 
-- Git & GitHub
+* Linear Regression
+* Logistic Regression
+* KNN
+* Naive Bayes
+* Decision Tree
+* Random Forest
+* K-Means Clustering
+
+### Deep Learning
+
+* Artificial Neural Networks (ANN)
+* Convolutional Neural Networks (CNN)
+* Recurrent Neural Networks (RNN)
+* Long Short-Term Memory (LSTM)
+
+### Natural Language Processing (NLP)
+
+* Text Preprocessing
+* Tokenization
+* Stopword Removal
+* TF-IDF Vectorization
+* Word Embeddings
+* Sentiment Analysis
+* Text Classification
+
+### Libraries & Frameworks
+
+* NumPy
+* Pandas
+* Matplotlib
+* Seaborn
+* Scikit-learn
+* TensorFlow
+* Keras
+* NLTK
+
+### Web / App Development
+
+* Streamlit
+* HTML, CSS
+* Git & GitHub
 
 ---
 
-##📂 Machine Learning Projects
+## 📂 Machine Learning & AI Projects
 
-🔗 Complete Data Science & ML Projects Repository:
+🔗 Complete Data Science & AI Projects Repository:
 👉 https://github.com/prasu077/Data_Science_Project
+
+### Machine Learning Projects
 
 🔹 Theater Snack Sales Prediction (Linear Regression)
 🔹 Spam vs Ham Classifier (Naive Bayes)
@@ -56,31 +84,48 @@
 🔹 Loan Approval System (Random Forest)
 🔹 Chocolate Sales Prediction (Logistic Regression)
 
-➡️ *Each project includes preprocessing, EDA, model training, evaluation & deployment.*
+### Deep Learning & NLP Projects
+
+🔹 College Chatbot using Deep Learning (TensorFlow & Keras)
+🔹 Text Classification using NLP Techniques
+🔹 Sentiment Analysis on Text Data
+🔹 AI Video Surveillance Assistant (Computer Vision + Generative AI)
+
+➡️ Each project includes preprocessing, EDA, model training, evaluation, and deployment.
 
 ---
 
 ## 📊 What I Know Practically
-- Data Cleaning & Preprocessing
-- Feature Selection
-- Correlation Analysis & EDA
-- Model Training & Testing
-- Accuracy, Confusion Matrix, Classification Report
-- Model Saving using Pickle / Joblib
-- Streamlit Deployment
+
+* Data Cleaning & Preprocessing
+* Exploratory Data Analysis (EDA)
+* Feature Engineering
+* Machine Learning Model Building
+* Deep Learning Model Training
+* NLP Pipeline Development
+* Model Evaluation & Optimization
+* Pickle / Joblib Model Serialization
+* Streamlit Deployment
+* Git Version Control
 
 ---
 
 ## 🌱 Currently Learning
-- Advanced Machine Learning
-- Model Optimization
-- Deployment Best Practices
-- Competitive Coding (Python)
+
+* Deep Learning with TensorFlow
+* Natural Language Processing (NLP)
+* Transformers & Large Language Models (LLMs)
+* Generative AI
+* Model Optimization
+* Deployment Best Practices
+* Competitive Coding (Python)
 
 ---
 
 ## 📫 Connect With Me
-- LinkedIn : https://www.linkedin.com/in/prasanna-prabu-18b48634a/
+
+* LinkedIn: https://www.linkedin.com/in/prasanna-prabu-18b48634a/
+
 ---
 
-⭐ *“Learning by building projects.”*
+⭐ *"Learning by building projects and solving real-world problems."*
